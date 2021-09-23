@@ -33,4 +33,4 @@ Of the SubGrid type numbered i.
 The rows field - a list containing 9 internal lists of numbers, where the internal list in position i will contain all the values
 We have so far solved in line number i.
 The columns field - a list that contains 9 internal lists of numbers, where the internal list in position i will contain all
-The values ​​we have solved so far in column number i.
+The values we have solved so far in column number i.
